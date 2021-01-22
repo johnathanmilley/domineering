@@ -1,1 +1,1 @@
-Tool used for exploring domineering positions in a presentation setting.
+Tool used for demonstrating positions in the mathematical game of Domineering.
