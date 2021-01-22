@@ -1,0 +1,33 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 10px;
+}
+
+input {
+    width: 30px;
+}
+
+svg {
+    margin: 1em;
+    border: 1px solid black;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4em;
+}
+
+p, label {
+    font-family: monospace;
+    font-size: 1.6em;
+}
+
+p {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+input, label, button {
+    margin-left: 1em;
+}
